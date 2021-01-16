@@ -1,0 +1,19 @@
+{
+  "name": "rest-express",
+  "version": "1.0.0",
+  "description": "express rest api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "erro no projeto"
+  },
+  "author": "renatocantarino",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.2.3",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}

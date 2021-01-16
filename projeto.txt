@@ -1,0 +1,9 @@
+Nodemon - é um watcher que detecta alterações no projeto e renderiza, sem
+ter necessidade de parar o projeto e reiniciar.
+
+bodyparser - middleware que e capaz de converter o body da requisicao para 
+qualquer formato(text , json, xml)
+
+consign = é um middleware de autoload de configurações. Imagina um projeto com arquivos 
+de rotas, teriamos q dar import em 10 files, oq nao e elegante.
+O consign atraves da pasta mapeada consegue injetar esses arquivos automaticamente.
